@@ -1,0 +1,13 @@
+.env
+.env.local
+.git
+.gitignore
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+node_modules
+.vscode
+.idea
+*.log
